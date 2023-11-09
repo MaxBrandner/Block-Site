@@ -12,10 +12,12 @@
     "storage",
     "<all_urls>",
     "webRequest",
-    "notifications",
     "webRequestBlocking",
     "alarms",
     "contextMenus"
+  ],
+  "optional_permissions": [
+    "notifications"
   ],
   "storage": {
     "managed_schema": "schema.json"
